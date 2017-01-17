@@ -1,7 +1,7 @@
 # WLA Curriculum
 
 ## Courses 
-### (Google Doc Links and PDF Links are the same content but in different formats)
+#### (Google Doc Links and PDF Links are the same content but in different formats)
 - English Language Arts I [\[GDOC\]](https://docs.google.com/document/d/1c1XubX4diXcQmJHfrPOZzlITQ9MZR8dclSo_v7J-JAw/edit?usp=sharing) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArts1/index.pdf)
 - Algebra I [\[GDOC\]](https://docs.google.com/document/d/1B69JQFi_3gDfaGXiXYefOFcOK2jbOg_VEO9kXSxCyU8/edit?usp=sharing) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/Algebra1/index.pdf)
 - Advanced Math I [\[GDOC\]](https://docs.google.com/document/d/1FF-gOz4jInKf89JEJ4bwnsGyC_TcOyhrnwV9MLjhfPo/edit?usp=sharing) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMath1/index.pdf)
