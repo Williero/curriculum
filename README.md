@@ -1,7 +1,7 @@
 # WLA Curriculum
 
 ## Courses 
-#### (GoogleDoc Links and PDF Links are the same content but in different formats. GoogleDocs are provided and made accessible for screen readers and similar tools; PDF files are not yet optimized for these tools.)
+#### (GoogleDoc Links and PDF Links are the same content but in different file formats. GoogleDocs are provided and made accessible for screen readers and similar tools; PDF files are not yet optimized for these tools.)
 
 - English Language Arts I [\[GDOC\]](https://docs.google.com/document/d/1c1XubX4diXcQmJHfrPOZzlITQ9MZR8dclSo_v7J-JAw/edit?usp=sharing) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArts1/index.pdf)
 - Algebra I [\[GDOC\]](https://docs.google.com/document/d/1B69JQFi_3gDfaGXiXYefOFcOK2jbOg_VEO9kXSxCyU8/edit?usp=sharing) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/Algebra1/index.pdf)
